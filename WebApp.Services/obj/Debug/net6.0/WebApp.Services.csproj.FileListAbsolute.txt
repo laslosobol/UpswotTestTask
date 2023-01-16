@@ -1,0 +1,12 @@
+D:\development\UpswotTask\WebApp\WebApp.Services\bin\Debug\net6.0\WebApp.Services.deps.json
+D:\development\UpswotTask\WebApp\WebApp.Services\bin\Debug\net6.0\WebApp.Services.dll
+D:\development\UpswotTask\WebApp\WebApp.Services\bin\Debug\net6.0\ref\WebApp.Services.dll
+D:\development\UpswotTask\WebApp\WebApp.Services\bin\Debug\net6.0\WebApp.Services.pdb
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.csproj.AssemblyReference.cache
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.AssemblyInfoInputs.cache
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.AssemblyInfo.cs
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.csproj.CoreCompileInputs.cache
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.dll
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\ref\WebApp.Services.dll
+D:\development\UpswotTask\WebApp\WebApp.Services\obj\Debug\net6.0\WebApp.Services.pdb
